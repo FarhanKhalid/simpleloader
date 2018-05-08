@@ -1,3 +1,10 @@
+## General notes
+
+Dont forget to change the URL of the server in the HTTP load requests with your own!
+Everything else is good to go. The following are general RN notes for setting up this project:
+
+## The general notes
+
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
